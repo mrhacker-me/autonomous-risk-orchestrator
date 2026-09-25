@@ -13,3 +13,9 @@ An autonomous, event-driven risk mitigation agent framework designed for high-th
 src/
 └── RiskOrchestrationAgent.ts   # Core Agent Engine, State Machine, Tool Dispatchers, and Telemetry
 
+## Setup & Local Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/mrhacker-me/autonomous-risk-orchestrator.git](https://github.com/mrhacker-me/autonomous-risk-orchestrator.git)
+   cd autonomous-risk-orchestrator
