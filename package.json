@@ -1,0 +1,17 @@
+{
+  "name": "autonomous-risk-orchestrator",
+  "version": "1.0.0",
+  "description": "Enterprise Multi-Agent Event Orchestrator & Fraud Mitigation Engine",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js"
+  },
+  "dependencies": {
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3"
+  }
+}
